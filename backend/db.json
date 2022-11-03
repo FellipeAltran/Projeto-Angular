@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta",
+      "price": 3.5
+    },
+    {
+      "id": 2,
+      "name": "Borracha",
+      "price": 2.25
+    },
+    {
+      "id": 3,
+      "name": "Mochila",
+      "price": 85.5
+    },
+    {
+      "name": "Geladeira",
+      "price": "1900.00",
+      "id": 4
+    }
+  ]
+}
