@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta",
-      "price": 3.5
-    },
-    {
       "id": 2,
       "name": "Borracha",
       "price": 2.25
@@ -18,7 +13,47 @@
     {
       "id": 4,
       "name": "Geladeira",
-      "price": 1900.00
+      "price": 1900
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 150,
+      "id": 5
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 150,
+      "id": 6
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 150,
+      "id": 7
+    },
+    {
+      "name": "caneca",
+      "price": "15.00",
+      "id": 8
+    },
+    {
+      "name": "Mouse",
+      "price": "50.00",
+      "id": 9
+    },
+    {
+      "name": "Monitor LG",
+      "price": "890.00",
+      "id": 10
+    },
+    {
+      "name": "janela",
+      "price": "500.00",
+      "id": 12
+    },
+    {
+      "name": "sdasda",
+      "price": "1123",
+      "id": 13
     }
   ]
 }
