@@ -7,7 +7,9 @@
     </mat-card-subtitle>
 
     <ul>
-        <li *myFor="let n em [1, 2, 3]">{{ n }}</li>
+        <li *ngFor="let n of [1, 2, 3]">{{ n }}</li>
+        <li *ngIf="key">aa</li>
+
     </ul>
 
 </mat-card>

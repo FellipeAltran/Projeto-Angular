@@ -41,11 +41,6 @@
       "id": 9
     },
     {
-      "name": "Monitor LG",
-      "price": "890.00",
-      "id": 10
-    },
-    {
       "name": "janela",
       "price": "500.00",
       "id": 12
@@ -54,6 +49,21 @@
       "name": "sdasda",
       "price": "1123",
       "id": 13
+    },
+    {
+      "name": "carro",
+      "price": "80.000",
+      "id": 14
+    },
+    {
+      "name": "fone",
+      "price": "20.00",
+      "id": 15
+    },
+    {
+      "name": "fefefefe",
+      "price": "15362",
+      "id": 16
     }
   ]
 }

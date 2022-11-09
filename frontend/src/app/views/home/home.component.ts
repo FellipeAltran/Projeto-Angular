@@ -1,3 +1,4 @@
+import { HeaderService } from './../../components/template/header/header.service';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -6,8 +7,17 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent implements OnInit {
+  lista = [1, 2, 3];
+  key: boolean = true
 
-  constructor() { }
+
+  constructor(private headerService: HeaderService) {
+    headerService.headerData = {
+      title: 'Inicio',
+      icon: 'home',
+      routeUrl: ''
+    }
+  }
 
   ngOnInit(): void {
   }
